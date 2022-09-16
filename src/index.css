@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family:sans-serif;
+  padding: 0;
+  
+  background: linear-gradient(to left, rgb(99, 122, 185, 3) 0%, rgb(13, 77, 119,1)100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
